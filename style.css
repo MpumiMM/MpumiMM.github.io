@@ -1,0 +1,67 @@
+.img_deg
+{
+    float: left;
+}
+
+.h3_deg {
+    text-align: left;
+}
+
+.p_deg {
+text-align: left;
+text-decoration: wavy;
+}
+br
+.p_deg {
+    text-align:left;
+}
+
+.h4_deg {
+
+text-align:right;
+}
+
+.em {
+    font-style: italic;
+    
+}
+
+
+
+.work {
+display: inline-block;
+margin-top: 7px;
+    margin-right: 20px;
+}
+
+.work-text {
+
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.positions {
+    margin-top: 7px;
+    margin-left: 20px;
+}
+
+.project-manager-text {
+    display: inline-block;
+}
+
+
+
+.checked {
+    color: orange;
+}
+
+.checked {
+    color: orange;
+}
+
+.checked {
+    color: orange;
+}
+.fa-heart{
+    color: red;
+}
